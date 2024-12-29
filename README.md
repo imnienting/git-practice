@@ -1,5 +1,4 @@
 # Git Practice
 
-aabbcc
-wwrrc
-eeeei
+print"hello";
+
